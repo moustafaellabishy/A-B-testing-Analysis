@@ -1,9 +1,9 @@
 # 💻 AB-testing
 
 The goal is to work through this notebook to help the company understand if they should:
-- Implement the new webpage, 
+- Implement the new webpage
 - Keep the old webpage, or 
-- Perhaps run the experiment longer to make their decision.
+- Perhaps run the experiment longer to make their decision
 
 
 ## :hammer: Features of the project
@@ -38,8 +38,10 @@ Just run in a Jupyter Notebook or in any Python Code editor
   ❯ cd A-B-testing-Analysis
 
 
-##### 3- To install the dependencies and start the project, you can use:
- ❯ Run in Jupyter NB
+##### 3- To install the dependencies and start the project:
+ Install anaconda3 package for python
+ and then run the folling comand in command line to open the jupyter notebook:
+ Jupyter notebook
 
 ### Author
 
